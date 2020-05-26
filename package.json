@@ -1,0 +1,15 @@
+{
+  "name": "csv_reader",
+  "version": "1.0.0",
+  "description": "App to read and manipulate csv file data",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^2.3.2",
+    "express": "^4.17.1"
+  }
+}
